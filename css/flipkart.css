@@ -17,6 +17,7 @@ body{
     width: 1200px;
     margin: 0 auto;
     display: flex;
+    height: 56px;
     align-items: center;
     justify-content: center;
 }
@@ -29,10 +30,10 @@ body{
     flex-basis: 30%;
 }
 .logo {
-    flex-basis: 10%;
+    flex-basis: 11%;
 }
 .search{
-    flex-basis: 84%;
+    flex-basis: 89%;
 }
 .main_logo_block img {
     width: 75px;
@@ -40,7 +41,6 @@ body{
 .plus_logo_block span {
     font-size: 11px;
     font-style: italic;
-    margin-top: 2px;
 }
 .plus_logo img{
     width: 10px;
@@ -73,8 +73,8 @@ body{
     
 }
 ::placeholder{ /*psudo selector*/
-    padding: 0px 10px;
     text-transform: capitalize;
+    padding-left: 15px;
     font-weight: 500;
 }
 /*---search css ends---*/
