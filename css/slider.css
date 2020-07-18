@@ -215,3 +215,19 @@
 ._2gp_O1 {
     transform: rotate(180deg) !important;
 }
+
+/*======smaller slider block css starts======*/
+#smallSlider{
+    background: #fff;
+}
+#smallSlider article{
+    display: flex;
+}
+ .leftSmall{
+    display: flex;
+}
+.textBelow{
+    /*display: flex;*/
+    
+}
+/*======smaller slider block css starts======*/
