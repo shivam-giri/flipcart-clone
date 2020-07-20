@@ -272,8 +272,9 @@
     margin-left: 20px;
 }
 .lowerSmall div a img{
-    height: 160px;
-    width: 133px;
+    height: 132px;
+    margin-right: 54px;
+    width: 120px;
 }
 .productName{
     font-size: 14px;
@@ -406,6 +407,10 @@
 }
 .viewAll{
     margin-top: 30px;
+}
+.viewAll2 {
+    margin-left: -30px;
+    margin-top: 25px;
 }
 
 
