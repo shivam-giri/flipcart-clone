@@ -2,6 +2,11 @@
     #headerBlock{
         height: 140px;
     }
+    .fa, .fas {
+        font-family: "Font Awesome 5 Pro";
+        font-weight: 900;
+        display: block;
+    }
 
     #headerBlock article{
         width: 100%;
