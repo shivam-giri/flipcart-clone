@@ -375,3 +375,11 @@ span.plus_icon img {
 
 /*-----main menu block css ends here -----*/
  
+.createdBy{
+    margin: 50px;
+    padding: 20px;
+    text-align: center;
+    text-shadow: 2px 2px crimson;
+    font-size: x-large;
+    transition-property: auto;
+}
